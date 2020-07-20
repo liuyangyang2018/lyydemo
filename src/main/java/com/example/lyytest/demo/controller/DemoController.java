@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class DemoController {
     @GetMapping
     public String test(){
-        return "大法师大法师大大打啊三大";
+        return "大法师大法师大大打啊三大12啊实打实的666";
     }
 }
